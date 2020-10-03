@@ -1,2 +1,3 @@
-# ergasia_3
-#Gia ta pshfiaka filtra
+# Exercise_3
+For the subject of Digital Filters
+
